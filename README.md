@@ -1,4 +1,5 @@
-# Este projeto consiste em um código HTML e JavaScript para uma página da web com funcionalidades diversas, como layouts personalizados, controle de áudio, botão de rolagem para o topo e suporte para modo claro/escuro. Abaixo estão detalhes sobre cada parte do projeto:
+# Este projeto consiste em um código HTML e JavaScript para uma página da web com funcionalidades diversas, como layouts personalizados, controle de áudio, botão de rolagem para o topo e suporte para modo claro/escuro. 
+Abaixo estão detalhes sobre cada parte do projeto:
 
 # Funcionalidades:
 # 1. Layout Personalizado:
